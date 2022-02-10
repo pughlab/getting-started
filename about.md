@@ -1,6 +1,8 @@
-layout: page
-title: "About"
+---
+title: Graded work
+layout: default
 permalink: /about/
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pughlab/getting-started/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
