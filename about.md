@@ -1,5 +1,5 @@
 ---
-title: Graded work
+title: About
 layout: default
 permalink: /about/
 ---
