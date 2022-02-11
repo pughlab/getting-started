@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+# Pughlab Manual
 
 You can use the [editor on GitHub](https://github.com/pughlab/getting-started/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## New member to-do list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Sign up for Slack Pugh Lab group: \url{https://slack.com/intl/en-ca/}
+- Get a Pugh Lab wiki account by emailing Jeff Bruce (Bruce, Jeffrey <Jeffrey.Bruce@uhnresearch.ca>) or Arnavaz Danesh Danesh  (<arnavaz.danesh@uhnresearch.ca>)
+- Explore the Pugh Lab website: \url{pughlab.org}
+- Get access to the Pugh Lab Git repository: \url{https://github.com/pughlab}
+- Complete the mandatory UHN training: \url{https://mylearning-uhn.sumtotal.host}
+- Explore the Pugh Lab wiki Resources page for lots of tutorials and tips: \url{https://www.pmgenomics.ca/pughlabwiki/doku.php?id=start}
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
