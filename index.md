@@ -1,6 +1,6 @@
 # Pughlab Manual
 
-This manual is to introduce new and existing lab members to get started and also to get access to various pughlab computaitonal resources.
+This manual is to for new and existing lab members to get started and help access with various pughlab computaitonal resources.
 
 
 
