@@ -1,7 +1,10 @@
-title: About
+---
+title: Lab Resources
 layout: default
-permalink: /about/
 permalink: /lab_resources/
+---
+
+
 # Pughlab Manual
 
 This manual is to for new and existing lab members to get started and help access with various pughlab computaitonal resources.
