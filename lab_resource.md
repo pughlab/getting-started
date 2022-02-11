@@ -3,13 +3,9 @@ title: Lab Resources
 layout: default
 permalink: /lab_resources/
 ---
+## Wiki
 
-
-# Pughlab Manual
-
-This manual is to for new and existing lab members to get started and help access with various pughlab computaitonal resources.
-
-
+## Cluster
 
 ## New member to-do list
 
