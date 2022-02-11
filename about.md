@@ -6,7 +6,8 @@ permalink: /about/
 ## Welcome to GitHub Pages
 
 Test link: [Home Page](https://pughlab.github.io/getting-started/)
-Second test link [Lab Resources] (https://pughlab.github.io/getting-started/lab_resources.md)
+
+Second test link: [Lab Resources](https://pughlab.github.io/getting-started/lab_resources.md)
 
 You can use the [editor on GitHub](https://github.com/pughlab/getting-started/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
