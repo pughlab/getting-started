@@ -9,12 +9,12 @@ permalink: /lab_resources/
 
 ## New member to-do list
 
-- Sign up for Slack Pugh Lab group Slack (https://slack.com/intl/en-ca/)
+- Sign up for Slack Pugh Lab group [Slack] (https://slack.com/intl/en-ca/)
 - Get a Pugh Lab wiki account by emailing Jeff Bruce (Bruce, Jeffrey <Jeffrey.Bruce@uhnresearch.ca>) or Arnavaz Danesh Danesh  (<arnavaz.danesh@uhnresearch.ca>)
-- Explore the Pugh Lab website  (http://www.pughlab.org/)
-- Get access to the Pugh Lab Git repository (https://github.com/pughlab)
-- Complete the mandatory UHN training (https://mylearning-uhn.sumtotal.host)
-- Explore the Pugh Lab wiki Resources page for lots of tutorials and tips (https://www.pmgenomics.ca/pughlabwiki/doku.php?id=start)
+- Explore the [Pugh Lab website] (http://www.pughlab.org/)
+- Get access to the [Pugh Lab Git repository] (https://github.com/pughlab)
+- Complete the mandatory [UHN training] (https://mylearning-uhn.sumtotal.host)
+- Explore the Pugh Lab wiki Resources page for lots of tutorials and tips [Pughlab Wiki] (https://www.pmgenomics.ca/pughlabwiki/doku.php?id=start)
 
 
 
